@@ -11,7 +11,7 @@ public class MainmethodEX {
 		System.out.println("Jvm strted execution");
 	}
 		
-	
+
 	
 		public int addition()
 	{
@@ -19,6 +19,7 @@ public class MainmethodEX {
 	
 		int result=num1+num2;
 		System.out.println("Result is"+result);
+		System.out.println();
 		return result;
 	
 		
